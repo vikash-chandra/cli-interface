@@ -7,7 +7,7 @@ import click
 
 def sanity_check(param, param_type, param_input_dtype):
     '''
-    This function valiidate the input given by user.
+    This function validate the input given by user.
     Arguments:
         param:              paramater value give by user
         param_type:         predefined input type by system
