@@ -131,7 +131,3 @@ class iGitHub(object):
         reqFormatedData = self.get_formated_data(users_info)
         print(reqFormatedData)
         return
-
-if __name__=='__main__':
-    obj = iGitHub(org='org-vikash', auth_key='ghp_656yYPcGy02s82ozUswifiVQEsLVUPx54c2ba9')
-    obj.get_user_info()

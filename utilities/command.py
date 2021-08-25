@@ -3,6 +3,9 @@
 
 import click
 from utilities.sanity import sanity
+
+# github interface
+from src.git_irepository import iGitHub
 #------------------------------------------------------------------------------
 
 
@@ -19,4 +22,5 @@ def run(organization, auth_key='auth-key'):
 
     sanity.sanity_check(organization, param_type='--organization', param_input_dtype=str)
     sanity.sanity_check(auth_key, param_type='--auth-key', param_input_dtype=str)
+    iGitHub(organization, auth_key).get_user_info()
     return
