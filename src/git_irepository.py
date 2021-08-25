@@ -96,6 +96,14 @@ class iGitHub(object):
         users_info = {}
         # Get organization object
         orgObj = self.interface.get_organization(self.__org)
+        org_response_header = orgObj.raw_headers
+
+        # NOTE: We need to impliment rate limiter as required
+        # TODO: Once get clarification on implimentation part
+        # Will implimented later
+        max_rate_limit = int(org_response_header['x-ratelimit-limit'])
+        max_rate_limit_remaining = int(org_response_header['x-ratelimit-remaining'])
+        
         # Get repos in organization
         repos = orgObj.get_repos()
         for i in range(repos.totalCount):
