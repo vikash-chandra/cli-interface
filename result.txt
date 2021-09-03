@@ -1,0 +1,273 @@
+login;name;email;repositories;languages
+cgruber;Christian Edward Gruber;christianedwardgruber@gmail.com;truth;Java,Shell,HTML
+cpovirk;Chris Povirk;cpovirk@google.com;truth;Java,Shell,HTML
+kluever;Kurt Alfred Kluever;kak@google.com;truth;Java,Shell,HTML
+dependabot[bot];NA;NA;truth;Java,Shell,HTML
+torquestomp;Daniel Ploch;NA;truth;Java,Shell,HTML
+dimo414;Michael Diamond;NA;truth;Java,Shell,HTML
+JiangJi;Jiang, Ji;NA;truth;Java,Shell,HTML
+nymanjens;Jens Nyman;nymanjens.nj@gmail.com;truth;Java,Shell,HTML
+dsaff;David Saff;david@saff.net;truth;Java,Shell,HTML
+java-team-github-bot;NA;NA;truth;Java,Shell,HTML
+hagbard;David Beaumont;dbeaumont@google.com;truth;Java,Shell,HTML
+nick-someone;Nick;NA;truth;Java,Shell,HTML
+cgdecker;Colin Decker;cgdecker@gmail.com;truth;Java,Shell,HTML
+ronshapiro;Ron Shapiro;NA;truth;Java,Shell,HTML
+cushon;Liam Miller-Cushon;cushon@google.com;truth;Java,Shell,HTML
+simon04;Simon Legner;Simon.Legner@gmail.com;truth;Java,Shell,HTML
+shicks;Stephen Hicks;NA;truth;Java,Shell,HTML
+WilliamCollishaw;William Collishaw;NA;truth;Java,Shell,HTML
+netdpb;David P. Baker;NA;truth;Java,Shell,HTML
+jlavallee;Jeff Lavallee;NA;truth;Java,Shell,HTML
+meteorcloudy;Yun Peng;NA;truth;Java,Shell,HTML
+gkdn;Goktug Gokdogan;NA;truth;Java,Shell,HTML
+sumitbhagwani;Sumit Bhagwani;NA;truth;Java,Shell,HTML
+elharo;Elliotte Rusty Harold;NA;truth;Java,Shell,HTML
+graememorgan;Graeme Morgan;NA;truth;Java,Shell,HTML
+lukesandberg;Luke Sandberg;NA;truth;Java,Shell,HTML
+rluble;Roberto Lublinerman;rluble@google.com;truth;Java,Shell,HTML
+rsurowka;NA;NA;truth;Java,Shell,HTML
+sameb;Sam Berlin;NA;truth;Java,Shell,HTML
+shaybarak;Shai Barack;shiber@gmail.com;truth;Java,Shell,HTML
+sqrrrl;Steve Bazyl;NA;ruby-openid-apps-discovery;Ruby
+christhomson;Chris Thomson;chris@cthomson.ca;ruby-openid-apps-discovery;Ruby
+sporkmonger;Bob Aman;NA;autoparse;Ruby
+benvanik;Ben Vanik;ben.vanik@gmail.com;anvil-build;Python,Shell,Batchfile
+husafan;Joshua Harrison;joshharrison@google.com;anvil-build;Python,Shell,Batchfile
+johnjbarton;johnjbarton;NA;ChannelPlate;JavaScript
+paullewis;Paul Lewis;github@aerotwist.com;GL-Shader-Validator;Python
+brendankenny;Brendan Kenny;NA;GL-Shader-Validator;Python
+curcio;Brian Curcio;bcurcio@gmail.com;qpp;JavaScript,CSS,LiveScript
+dominichamon;Dominic Hamon;NA;embed-dart-vm;C++,Dart
+cramforce;Malte Ubl;NA;module-server;JavaScript,HTML
+jaitaiwan;Daniel Holmes;dan@djcentric.com;module-server;JavaScript,HTML
+mknichel;NA;NA;module-server;JavaScript,HTML
+zygoloid;Richard Smith;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+jensmaurer;Jens Maurer;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+tkoeppe;Thomas Köppe;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+jwakely;Jonathan Wakely;github@kayari.org;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+Eelis;NA;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+sdutoit;Stefanus Du Toit;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+CaseyCarter;Casey Carter;Casey@Carter.net;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+JohelEGP;Johel Ernesto Guerrero Peña;johelegp@gmail.com;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+timsong-cpp;NA;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+cpplearner;S. B. Tam;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+AlisdairM;Alisdair Meredith;ameredith1@bloomberg.net;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+AaronBallman;Aaron Ballman;aaron@aaronballman.com;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+FrankHB;NA;frankhb1989@gmail.com;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+opensdh;Davis Herring;herring@lanl.gov;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+mclow;Marshall Clow;marshall@idio.com;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+jfbastien;JF Bastien;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+godbyk;Kevin Godby;kevin@godby.org;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+Quuxplusone;Arthur O'Dwyer;arthur.j.odwyer@gmail.com;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+W-E-Brown;NA;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+cubbimew;Sergey Zubkov;cubbi@cubbi.com;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+jacobsa;Aaron Jacobs;aaronjjacobs@gmail.com;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+faithandbrave;Akira Takahashi;faithandbrave@gmail.com;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+cassioneri;Cassio Neri;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+lichray;Zhihao Yuan;lichray@gmail.com;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+sdkrystian;Krystian Stasiowski;sdkrystian@gmail.com;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+k-satoda;Kazutoshi SATODA;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+kariya-mitsuru;Mitsuru Kariya;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+languagelawyer;NA;NA;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+K-ballo;Agustín Bergé;agustinberge@gmail.com;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+jwilk;Jakub Wilk;jwilk@jwilk.net;cxx-std-draft;TeX,HTML,Shell,sed,C++,Makefile,Perl
+DougGregor;Doug Gregor;dgregor@apple.com;libcxx;C++,C,Shell
+lattner;Chris Lattner;NA;libcxx;C++,C,Shell
+ddunbar;Daniel Dunbar;daniel@minormatter.com;libcxx;C++,C,Shell
+chandlerc;Chandler Carruth;chandlerc@gmail.com;libcxx;C++,C,Shell
+davezarzycki;David Zarzycki;dave@znu.io;libcxx;C++,C,Shell
+Bigcheese;Michael Spencer;bigcheesegs@gmail.com;libcxx;C++,C,Shell
+akyrtzi;Argyrios Kyrtzidis;akyrtzi@gmail.com;libcxx;C++,C,Shell
+jyasskin;Jeffrey Yasskin;jyasskin@gmail.com;libcxx;C++,C,Shell
+nunoplopes;Nuno Lopes;nuno.lopes@tecnico.ulisboa.pt;libcxx;C++,C,Shell
+chapuni;NAKAMURA Takumi;geek4civic@gmail.com;libcxx;C++,C,Shell
+rsturgell;NA;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+stellaraccident;Stella Laurenzo;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+chihuahua;Chi Zeng;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+ScottTodd;Scott Todd;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+baxissimo;Bill Baxter;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+zhaoz;zhaoz;zilingzhao@gmail.com;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+tantalor;John Tantalo;john.tantalo@gmail.com;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+poucet;Christophe Poucet;christophe.poucet@gmail.com;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+vertexodessa;Ihor Ivlev;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+warrencraddock;NA;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+balupton;Benjamin Lupton;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+bennycode;Benny Neugebauer;mail@bennycode.com;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+IgorMinar;Igor Minar;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+lipis;Lipis;lipiridis@gmail.com;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+mpd;NA;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+craigprince;Craig Prince;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+jdarpinian;James Darpinian;jdarpinian@gmail.com;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+lantius;NA;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+pkozlowski-opensource;Pawel Kozlowski;pkozlowski.opensource@gmail.com;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+rchao;Rick Chao;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+tommadams;Tom Madams;tom.ej.madams@gmail.com;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+MatrixFrog;Tyler Breisacher;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+vojtajina;Vojta Jina;vojta.jina+gh@gmail.com;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+evilaliv3;Giovanni Pellerano;giovanni.pellerano@globaleaks.org;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+nickjong;Nick Jong;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+piloopin;NA;NA;tracing-framework;JavaScript,C++,HTML,CSS,Shell,Makefile,Batchfile
+tstromberg;Thomas Strömberg;t+github@stromberg.org;namebench;Go,HTML,Shell,CSS
+jeffbyrnes;Jeff Byrnes;NA;namebench;Go,HTML,Shell,CSS
+sigmundch;NA;NA;episodes.dart;Dart
+jakemac53;Jacob MacDonald;jakemac@google.com;episodes.dart;Dart
+pavelgj;Pavel Jbanov;NA;episodes.dart;Dart
+deanberris;Dean Michael Berris;dean.berris@gmail.com;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+glynos;Glyn Matthews;glyn.matthews@gmail.com;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+povilasb;Povilas Balciunas;balciunas90@gmail.com;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+leecoder;NA;c.lee@linecorp.com;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+eakraly;Pavel Punsky;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+omalashenko;Oleg Malashenko;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+DanielBujnik;NA;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+cnagune;Jaesung Kim;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+kaspervandenberg;Kasper van den Berg;kasper@kaspervandenberg.net;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+prantlf;Ferdinand Prantl;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+3noch;Elliot Cameron;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+VeXocide;Jeroen Habraken;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+infinity0;Ximin Luo;infinity0@pwned.gg;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+jellevdd;NA;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+tjadevries;Theo de Vries;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+wujunzhuo;NA;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+lyytinen;Jussi Lyytinen;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+theopolis;Teddy Reed;teddy@casualhacking.io;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+codemedic;Dino Korah;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+emreturkay;Emre Turkay;emreturkay@gmail.com;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+susnux;Ferdinand Thiessen;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+kencoken;Ken Chatfield;ken.chatfield@fmailbox.com;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+marcb1;Marc;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+leisinmr;Matt Leisinger;leisinmr@gmail.com;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+nwerensteijn;NA;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+mistafunk;Simon Haegler;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+clunietp;NA;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+el-bart;bartek 'basz' szurgot;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+Mike-ECT;NA;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+patlecat;NA;NA;cpp-netlib;C++,HTML,JavaScript,CSS,CMake,Python,Shell,Makefile,Batchfile
+bcorso;Brad Corso;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+gk5885;Gregory Kick;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+JakeWharton;Jake Wharton;j@ke.fyi;dagger;Java,Starlark,Kotlin,Shell,Python
+swankjesse;Jesse Wilson;jwilson@squareup.com;dagger;Java,Starlark,Kotlin,Shell,Python
+Chang-Eric;Eric Chang;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+jbeder;Jesse Beder;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+danysantiago;Daniel Santiago;danyboricua91@gmail.com;dagger;Java,Starlark,Kotlin,Shell,Python
+strasburg;Derek Strasburg;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+tbroyer;Thomas Broyer;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+pforhan;Patrick Forhan;ghp@muddyhorse.com;dagger;Java,Starlark,Kotlin,Shell,Python
+sgoldfed;Steven Goldfeder;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+mahsabadian;NA;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+groakley;Grant Oakley;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+wanyingd1996;NA;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+adennie;Andy Dennie;github@adennie.e4ward.com;dagger;Java,Starlark,Kotlin,Shell,Python
+sethnel99;Seth Nelson;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+brettcannon;Brett Cannon;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+jnlopar;Jason Neufeld;jneufeld@google.com;dagger;Java,Starlark,Kotlin,Shell,Python
+matvore;Matthew DeVore;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+paulduffin;NA;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+pyricau;py - Pierre Yves Ricau;NA;dagger;Java,Starlark,Kotlin,Shell,Python
+artygus;Arty Gus;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+paulirish;Paul Irish;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+jchuong;James Chuong;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+auchenberg;Kenneth Auchenberg;kenneth@auchenberg.dk;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+pmeenan;Patrick Meenan;pmeenan@webpagetest.org;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+vincentbernat;Vincent Bernat;vincent@bernat.ch;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+carsonmcdonald;Carson McDonald;carson@ioncannon.net;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+ticky;Jessica Stokes;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+tsekityam;Tse Kit Yam;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+addyosmani;Addy Osmani;addyosmani@gmail.com;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+cyrus-and;Andrea Cardaci;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+argelius;Andreas Argelius;andreas@argeli.us;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+antony;Antony Jones;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+alebcay;Caleb Xu;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+cco3;Conley Owens;cco3@google.com;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+nghiadhd;Nghia;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+goleary;Gabe O'Leary;oleary.gabe@gmail.com;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+imurchie;Isaac A. Murchie;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+JonyFang;JonyFang;jony.chunfang@gmail.com;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+DjebbZ;Khalid Jebbari;khalid.jebbari@gmail.com;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+Laguana;NA;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+lbud;Lauren Budorick;lbudorick@gmail.com;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+mattparrilla;Matt Parrilla;matthew.parrilla@gmail.com;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+GingerBear;Neil Ding;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+sank8dalvi;Sanket Dalvi;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+ssynix;Shayan Sayahi;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+tobli;Tobias Lidskog;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+liangsdet;NA;NA;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+sprt;Aurélien;hellosprt@gmail.com;ios-webkit-debug-proxy;C,M4,Makefile,Shell
+willnorris;Will Norris;will@willnorris.com;google.github.io;HTML
+dazuma;Daniel Azuma;dazuma@gmail.com;google.github.io;HTML
+tarjeiv;NA;NA;kratu;JavaScript,CSS
+andsens;Anders Ingemann;anders@ingemann.de;build-debian-cloud;Python,Shell
+ckaenzig;Christian Kaenzig;NA;build-debian-cloud;Python,Shell
+jeremyje;Jeremy Edwards;NA;build-debian-cloud;Python,Shell
+HimanshuVasishth;NA;NA;build-debian-cloud;Python,Shell
+mbornoz;Mathieu Bornoz;mathieu@bornoz.ch;build-debian-cloud;Python,Shell
+jkaplowitz;Jimmy Kaplowitz;NA;build-debian-cloud;Python,Shell
+kenshaw;Kenneth Shaw;NA;build-debian-cloud;Python,Shell
+yanfalies;NA;NA;build-debian-cloud;Python,Shell
+rybaktomasz;Tomasz Rybak;NA;build-debian-cloud;Python,Shell
+tmatilai;Teemu Matilainen;teemu.matilainen@iki.fi;build-debian-cloud;Python,Shell
+fredj;Frédéric Junod;frederic.junod@camptocamp.com;build-debian-cloud;Python,Shell
+adangel;Andreas Dangel;andreas.dangel@adangel.org;build-debian-cloud;Python,Shell
+crigor;Christopher Rigor;crigor@gmail.com;build-debian-cloud;Python,Shell
+soult;David Triendl;NA;build-debian-cloud;Python,Shell
+joshkraemer;Josh Kraemer;NA;build-debian-cloud;Python,Shell
+mika;Michael Prokop;github@michael-prokop.at;build-debian-cloud;Python,Shell
+ssgelm;Stephen Gelman;NA;build-debian-cloud;Python,Shell
+arv;Erik Arvidsson;erik.arvidsson@gmail.com;traceur-compiler;JavaScript,HTML,Makefile
+usrbincc;NA;NA;traceur-compiler;JavaScript,HTML,Makefile
+guybedford;Guy Bedford;guybedford@gmail.com;traceur-compiler;JavaScript,HTML,Makefile
+mathiasbynens;Mathias Bynens;NA;traceur-compiler;JavaScript,HTML,Makefile
+vicb;Victor Berchet;victor@suumit.com;traceur-compiler;JavaScript,HTML,Makefile
+crisptrutski;Chris Truter;NA;traceur-compiler;JavaScript,HTML,Makefile
+slightlyoff;Alex Russell;slightlyoff@chromium.org;traceur-compiler;JavaScript,HTML,Makefile
+rodyhaddad;Rodric Haddad;NA;traceur-compiler;JavaScript,HTML,Makefile
+pflannery;Peter Flannery;NA;traceur-compiler;JavaScript,HTML,Makefile
+eddyb;Eduard-Mihai Burtescu;eddyb@lyken.rs;traceur-compiler;JavaScript,HTML,Makefile
+fitzgen;Nick Fitzgerald;NA;traceur-compiler;JavaScript,HTML,Makefile
+mciparelli;Martín Ciparelli;mciparelli@gmail.com;traceur-compiler;JavaScript,HTML,Makefile
+arcanis;Maël Nison;nison.mael@gmail.com;traceur-compiler;JavaScript,HTML,Makefile
+yokomizor;Rogério da Silva Yokomizo;me@ro.ger.io;traceur-compiler;JavaScript,HTML,Makefile
+TomiBelan;Tomi Belan;tomi.belan@gmail.com;traceur-compiler;JavaScript,HTML,Makefile
+domenic;Domenic Denicola;d@domenic.me;traceur-compiler;JavaScript,HTML,Makefile
+rolftimmermans;Rolf Timmermans;rolf@zxcv.nl;traceur-compiler;JavaScript,HTML,Makefile
+hzr;David Håsäther;NA;traceur-compiler;JavaScript,HTML,Makefile
+caitp;⭐caitp⭐;NA;traceur-compiler;JavaScript,HTML,Makefile
+UltCombo;Fabricio Matte;NA;traceur-compiler;JavaScript,HTML,Makefile
+jshen212;Jeff Shen;jeffshen86@gmail.com;traceur-compiler;JavaScript,HTML,Makefile
+mprobst;Martin Probst;martin@probst.io;traceur-compiler;JavaScript,HTML,Makefile
+amatiasq;A. Matías Quezada;amatiasq@gmail.com;traceur-compiler;JavaScript,HTML,Makefile
+Alxandr;Aleksander Heintz;alxandr@alxandr.me;traceur-compiler;JavaScript,HTML,Makefile
+amasad;Amjad Masad;amjad.masad@gmail.com;traceur-compiler;JavaScript,HTML,Makefile
+cyco;Christoph Leimbrock;christoph.leimbrock@gmx.de;traceur-compiler;JavaScript,HTML,Makefile
+DmT021;Galimzyanov Dmitry;NA;traceur-compiler;JavaScript,HTML,Makefile
+DmitrySoshnikov;Dmitry Soshnikov;dmitry.soshnikov@gmail.com;traceur-compiler;JavaScript,HTML,Makefile
+swsnider;Silas Snider;swsnider@gmail.com;firmata.py;Python
+unrepentantgeek;Matthew Wilson;matthew@shinythings.com;firmata.py;Python
+johnmccutchan;John McCutchan;john@johnmccutchan.com;vector_math.dart;Dart
+Fox32;Oliver Sand;NA;vector_math.dart;Dart
+kevmoo;Kevin Moore;NA;vector_math.dart;Dart
+lexaknyazev;Alexey Knyazev;NA;vector_math.dart;Dart
+adam-singer;Adam Singer;NA;vector_math.dart;Dart
+laszlokorte;Laszlo Korte;NA;vector_math.dart;Dart
+brason;Brage Nilsson;NA;vector_math.dart;Dart
+toji;Brandon Jones;tojiro@gmail.com;vector_math.dart;Dart
+andersforsell;Anders Forsell;NA;vector_math.dart;Dart
+udhos;NA;everton.marques@gmail.com;vector_math.dart;Dart
+pseudopeach;Justin Armstrong;pseudopeach@gmail.com;vector_math.dart;Dart
+donny-dont;Don;NA;vector_math.dart;Dart
+natebosch;Nate Bosch;nbosch1@gmail.com;vector_math.dart;Dart
+AMagill;Andrew Magill;NA;vector_math.dart;Dart
+lohandus;Lohandus;NA;vector_math.dart;Dart
+rakudrama;Stephen Adams;sra@google.com;vector_math.dart;Dart
+fkleon;Frederik Leonhardt;NA;vector_math.dart;Dart
+pjako;Peter Jakobs;NA;vector_math.dart;Dart
+coderespawn;Ali Akbar;ali.akbar@coderespawn.com;vector_math.dart;Dart
+munificent;Bob Nystrom;NA;vector_math.dart;Dart
+jackd;Dominic Jack;thedomjack@gmail.com;vector_math.dart;Dart
+ArgentiApparatus;Gary Smith;NA;vector_math.dart;Dart
+bergwerf;Herman Bergwerf;NA;vector_math.dart;Dart
+jacob314;Jacob Richman;NA;vector_math.dart;Dart
+flar;Jim Graham;flar@google.com;vector_math.dart;Dart
+lrhn;Lasse R.H. Nielsen;NA;vector_math.dart;Dart
+pq;Phil Quitslund;NA;vector_math.dart;Dart
+SebastianPFernandez;NA;NA;vector_math.dart;Dart

@@ -103,33 +103,44 @@ class iGitHub(object):
         # Will implimented later
         max_rate_limit = int(org_response_header['x-ratelimit-limit'])
         max_rate_limit_remaining = int(org_response_header['x-ratelimit-remaining'])
-        
+
         # Get repos in organization
         repos = orgObj.get_repos()
         for i in range(repos.totalCount):
             page_repos = repos.get_page(i)
             for repo in page_repos:
+                repoName = repo.name
                 languages = repo.get_languages()
                 contributors = repo.get_contributors()
+                if not repoName: continue
+                if not languages: continue
+                if not contributors: continue
                 for j in range(contributors.totalCount):
                     contribs = contributors.get_page(j)
+                    if not contribs: continue
                     for contrib in contribs:
-                        contrib_login = users_info.get(contrib.login, '')
-                        if not contrib_login:
-                            contrib_login = contrib.login
+                        uLogin = contrib.login
+                        uName = contrib.name
+                        uEmail = contrib.email
+                        if not uLogin: continue
+                        if not uName: uName = ''
+                        if not uEmail: uEmail = ''
+                        contrib_login = uLogin
+                        contrib_exists = users_info.get(contrib_login, {})
+                        if not contrib_exists:
                             users_info[contrib_login] = {}
                         usrLogin = users_info[contrib_login].get('login', '')
                         if not usrLogin:
-                            users_info[contrib_login]['login'] = contrib.login
+                            users_info[contrib_login]['login'] = uLogin
                         usrName = users_info[contrib_login].get('name', '')
                         if not usrName:
-                            users_info[contrib_login]['name'] = contrib.name
+                            users_info[contrib_login]['name'] = uName
                         usrEmail = users_info[contrib_login].get('email', '')
                         if not usrEmail:
-                            users_info[contrib_login]['email'] = contrib.email
+                            users_info[contrib_login]['email'] = uEmail
                         usrRepos = users_info[contrib_login].get('repositories', {})
                         if not usrRepos:
-                            tmpRepo = {repo.name:1}
+                            tmpRepo = {repoName:1}
                             usrRepos.update(tmpRepo)
                         users_info[contrib_login]['repositories'] = usrRepos
                         usrLang = users_info[contrib_login].get('languages', {})
